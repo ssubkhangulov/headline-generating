@@ -9,4 +9,4 @@
 Download
 
 <a href="https://drive.google.com/file/d/16weMX3Ubi0g8ZDJRujuN1aR0TIksOaoj/view?usp=sharing">mBart</a>
-<a href="https://drive.google.com/file/d/1vSpLEWu5vo5s1S99O9WuVe4F4VFwLSgs/view?usp=sharing">mBart</a>
+<a href="https://drive.google.com/file/d/1vSpLEWu5vo5s1S99O9WuVe4F4VFwLSgs/view?usp=sharing">ruGpt(small & large)</a>
